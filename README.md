@@ -5,7 +5,6 @@ SOP of Simulation is a web-based documentation project designed to present simul
 The project demonstrates best practices in technical documentation and frontend presentation.
 
 Live Demo  
-https://ragunathapoorva.github.io/SOPofSimulation/
 
 Project Overview
 
@@ -90,5 +89,6 @@ Future Enhancements
 • Interactive simulation examples  
 • PDF export of SOP documentation  
 • Backend integration for content management  
+
 
 
